@@ -8,6 +8,8 @@ Collaboratory list of ideas, in no particular order.
 ## Agile Estimation
 * Grid view of possible estimates
 * Tap one to go to a big, white letter on black bg
+* I need T-Shirt sizes but I'm open to whatever.
+* Minimal on the animations, etc. The idea is to be good to the battery for longer sessions.
  
 ## Gmail canned responses
 Gmail has an API https://developers.google.com/gmail/api/v1/reference/
